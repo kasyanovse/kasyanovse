@@ -1,5 +1,21 @@
 ### Hi there 👋
 
-### My name is Sergey Kasyanov.
+### My name is Sergey Kasyanov
 
-I love programming (python as the main language) and math (math modelling). I study to be a data scientists.
+**Stack**:
+- Matlab (9 years)
+- Python (3 years)
+
+**Fields**:
+- math modelling (7 years)
+- data science (<1 year)
+
+**Tools**:
+- Scikit-learn
+- Tensorflow
+- Keras
+- Pandas
+- SQL
+- Docker
+
+ Write to me: <a href="https://t.me/yoyuyoyuyoy">Telegram
