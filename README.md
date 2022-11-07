@@ -8,7 +8,7 @@
 
 **Fields**:
 - math modelling (7 years)
-- data science (<1 year)
+- data science (1 year)
 
 **Tools**:
 - Scikit-learn
